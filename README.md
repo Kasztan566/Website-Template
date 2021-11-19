@@ -12,4 +12,4 @@ git clone https://github.com/Kasztan566/Website-Template
 <br>
 2. Use 🌹<br><br>
 
-Upload to hosting or open **index.html**
+Upload to hosting or open **index.html**.
