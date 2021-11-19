@@ -1,4 +1,10 @@
 # Website Template 🌵
-🌱 This is free to use website in created in html.
-<br>
+🌱 This is free to use website in created in html.<br>
 🧪 You can use it for free.
+
+
+<h3>How to download and use?</h3><br>
+1. Download 🌾
+````
+git clone https://github.com/Kasztan566/Website-Template
+````
